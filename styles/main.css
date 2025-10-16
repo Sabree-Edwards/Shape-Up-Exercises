@@ -3,10 +3,7 @@
 body {
 
    font-family: Arial, Helvetica, sans-serif;  font-size: 100%; }
-
-h1 {
-
-  font-size: 200%; }
+  h1 { font-size: 250%; }
 
 header {
 
@@ -15,14 +12,14 @@ header {
 
 section {
 
-                        <p><a style="font-weight: bold" href="strength/strength.html">Build strong muscles</a></p>
+<a style="font-weight: bold; color: maroon;" href="strength/strength.html">Build strong muscles</a>
 
-                        <p><a style="font-weight:bold" href="cardio/cardio.html">Get your heart rate up</a></p>
+<a style="font-weight:bold; color: maroon;" href="cardio/cardio.html">Get your heart rate up</a>
 
-                        <p><a style="font-weight: bold" href="stress/stress.html">Relax</a></p>
+<a style="font-weight: bold; color: maroon;" href="stress/stress.html">Relax</a>
    
 
-                        <p><a style="font-weight: bold" href="diet/diet.html">Eat what's right for you</a></p>
+<a style="font-weight: bold; color: maroon;" href="diet/diet.html">Eat what's right for you</a> }
 
 
 #copyright { font-size: 80%; } 
