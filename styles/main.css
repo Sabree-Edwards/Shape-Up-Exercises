@@ -21,7 +21,12 @@ section {
 
 <a style="font-weight: bold; color: maroon;" href="diet/diet.html">Eat what's right for you</a> }
 
-aside {
+<aside>
+
+  h3 { "font-size: 100%; color: maroon;" }
+
+</aside>
+     
 
 
 
