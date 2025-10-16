@@ -8,7 +8,7 @@ h1 {
 
 header {
      font-size: 200%;
-     .blue { color: blue; }
+<h1 style="font-size: 200%; color: blue;">Shape Up!</h1> }
      
 
 
