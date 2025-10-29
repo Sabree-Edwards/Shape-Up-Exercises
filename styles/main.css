@@ -21,13 +21,13 @@ header img {
 }
 
 section a:link, 
-section a: visited {
+section a:visited {
    color: maroon;
 }
 
-section a: hover,
-section a: focus {
-   color: maroon;
+section a:hover,
+section a:focus {
+   color: steelblue;
 }
 
 aside h3 {
