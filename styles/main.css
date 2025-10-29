@@ -27,31 +27,28 @@ section a: focus {
    color: steelblue;
 }
 
-aside 
+aside h3 {
+   color: maroon;
+}
+
+aside li {
+   line-height:1.5;
+}
+
+aside a:link,
+aside a:visited {
+  color: steelblue;
+  font-weight: bold;
+}
+
+aside a:hover,
+aside a:focus {
+  color: maroon;
+}
+
+footer {
+  font-size: 80%;
+  text-align: center;
+}
 
 
-
-
-   
-<a style="font-weight: bold; color: maroon;" href="strength/strength.html">Build strong muscles</a>
-
-<a style="font-weight:bold; color: maroon;" href="cardio/cardio.html">Get your heart rate up</a>
-
-<a style="font-weight: bold; color: maroon;" href="stress/stress.html">Relax</a>
-   
-
-<a style="font-weight: bold; color: maroon;" href="diet/diet.html">Eat what's right for you</a> }
-
-<aside>
-
-  h3 { "font-size: 100%; color: maroon;" }
-
-</aside>
-     
-
-
-
-
-#copyright { font-size: 80%; } 
-
-.blue { color: blue; }
